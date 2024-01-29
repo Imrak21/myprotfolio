@@ -1,0 +1,40 @@
+#protfolio {
+    height: 100vh;
+}
+
+#infodiv {
+    display: inline-block;
+}
+
+#infotext {
+    margin-top: 150px;
+    padding-left: 10px;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 50px !important;
+    animation: typing 2s steps(100) infinite;
+}
+
+#techicon {
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+#techicon:hover{
+    transform:rotateY(135deg);
+}
+#techhead {
+    font-family: 'Climate Crisis', sans-serif;
+    font-size: 55px;
+    background: -webkit-linear-gradient(#AFEEEE, #B0E0E6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+}

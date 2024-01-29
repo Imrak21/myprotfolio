@@ -1,0 +1,23 @@
+#projectcard{
+    border-radius: 0 !important;
+    width: 300px;
+    padding: 10px;
+    background: burlywood;
+    z-index:-1;
+    transition: transform 0.3s ease;
+}
+#projectcard:hover{
+    box-shadow: 10px 10px 0px rgb(48, 234, 255);
+    /* transform: scale(1.2); */
+}
+#projectsection{
+    margin: 10px !important;
+}
+#projecthead{
+    font-family: 'Climate Crisis', sans-serif;
+    font-size: 55px;
+    background: -webkit-linear-gradient(#AFEEEE, #B0E0E6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 10px;
+}

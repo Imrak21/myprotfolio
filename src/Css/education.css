@@ -1,0 +1,46 @@
+#row{
+    height: 1px;
+    background-color: white;
+    margin-top: 20px !important;
+}
+#educationsection{
+    height: 500px   ;
+}
+#educol{
+    width: 1px !important;
+    background-color: white;
+    height: 50px;
+    padding: 0;
+}
+#eduhead{
+    font-family: 'Climate Crisis', sans-serif;
+    font-size: 55px;
+    background: -webkit-linear-gradient(#AFEEEE, #B0E0E6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: left !important;
+}
+#edicon{
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+    padding: 10px;
+}
+#edudetails{
+    color: white;
+    background-color: black;
+    visibility: hidden;
+    height: 0px;
+    overflow: hidden;
+    transition: visibility 0.5s linear, height 1s linear;
+}
+#edicon:hover + #edudetails{
+    color: aqua;
+    visibility: visible;
+    background-color: black;
+    height: 100% !important;
+}
+#edicon:hover + #edudetails:only-of-type {
+    transition: none;
+}
+
+

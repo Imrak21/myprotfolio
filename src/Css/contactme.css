@@ -1,0 +1,36 @@
+#contacthead{
+    font-family: 'Climate Crisis', sans-serif;
+    font-size: 55px;
+    background: -webkit-linear-gradient(#AFEEEE, #B0E0E6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: right !important;
+    padding: 10px !important;
+}
+#form-container{
+    width: 800px;
+    position: relative !important;
+    left: 100px;
+    top: 100px;
+}
+#contactsection{
+    height: 100vh
+}
+#form-input{
+    width: 500px;
+    height: 40px;
+    padding: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background:rgba(0, 0,0, 0.3);
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    outline: none;
+    border-bottom: 1px solid black;
+}
+#form-text-area{
+    background:rgba(0, 0,0, 0.3);
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
