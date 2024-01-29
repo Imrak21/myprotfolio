@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myprotfolio/static/css/main.877d50f3.css",
+    "main.js": "/myprotfolio/static/js/main.ab22781c.js",
+    "static/js/787.90ce30d7.chunk.js": "/myprotfolio/static/js/787.90ce30d7.chunk.js",
+    "static/media/insta.png": "/myprotfolio/static/media/insta.8af0977ea22c5cf90209.png",
+    "static/media/naukri.png": "/myprotfolio/static/media/naukri.3ea661bce5260be4220b.png",
+    "static/media/Linkedin.png": "/myprotfolio/static/media/Linkedin.9e45220acd830a03fbbb.png",
+    "static/media/me.png": "/myprotfolio/static/media/me.a3a3488d51b2b35b1492.png",
+    "static/media/fb.png": "/myprotfolio/static/media/fb.bbfc35caf6c6bfab61b8.png",
+    "static/media/css.webp": "/myprotfolio/static/media/css.8a9cb64261d07da57f4f.webp",
+    "static/media/html.webp": "/myprotfolio/static/media/html.09472bc29dde4d23fcef.webp",
+    "static/media/js.webp": "/myprotfolio/static/media/js.17b8259b333156d4ef4a.webp",
+    "static/media/java.png": "/myprotfolio/static/media/java.66c01e0c39bbdd9ae552.png",
+    "static/media/reactimg.png": "/myprotfolio/static/media/reactimg.ccb97f287d4d51b10a6b.png",
+    "static/media/Bootstrap.Default": "/myprotfolio/static/media/Bootstrap.5db8f342582790521991.Default",
+    "index.html": "/myprotfolio/index.html",
+    "main.877d50f3.css.map": "/myprotfolio/static/css/main.877d50f3.css.map",
+    "main.ab22781c.js.map": "/myprotfolio/static/js/main.ab22781c.js.map",
+    "787.90ce30d7.chunk.js.map": "/myprotfolio/static/js/787.90ce30d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.877d50f3.css",
+    "static/js/main.ab22781c.js"
+  ]
+}
