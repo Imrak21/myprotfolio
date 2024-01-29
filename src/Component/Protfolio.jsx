@@ -11,14 +11,14 @@ export default function Protfolio() {
   return (
     <>
       <section id="protfolio m-0 p-0">
-        <div className="row justify-content-between p-0 m-0" id="main">
-          <div className="col-6" id="infodiv">
+        <div className="p-0 m-0 d-flex justify-content-between flex-sm-wrap" id="main">
+          <div id="infodiv">
             <p id="infotext" className="fs-2">
               Hi I am Rakesh Pradhan <br />I am a
               <span style={{ color: "cyan" }}> FullStack Developer</span>
             </p>
           </div>
-          <div className="col-4" id="imgdiv">
+          <div id="imgdiv">
             <img src={me} alt="Not available"/>
           </div>
         </div>

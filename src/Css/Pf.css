@@ -1,5 +1,5 @@
 #protfolio {
-    height: 100vh;
+    /* height: 100vh; */
 }
 
 #infodiv {
@@ -38,3 +38,23 @@
         width: 0;
     }
 }
+
+@media only screen and (max-width: 950px) {
+    #main{
+        flex-wrap: wrap-reverse !important;
+        justify-content: center !important;
+        color: black;
+    }
+    #infodiv{
+        width: 70% !important;
+        margin: auto;
+        justify-content: flex-start;
+    }
+    #infotext{
+        font-size: 25px !important;
+    }
+    #techhead{
+        font-size: 35px !important;
+    }
+  }
+  

@@ -27,3 +27,11 @@ body{
 *{
     margin:0;
 }
+@media only screen and (max-width: 950px) {
+    .list-group{
+        flex-wrap: wrap;
+    }
+    .d-flex{
+        flex-wrap: wrap !important;
+    }
+}

@@ -21,3 +21,11 @@
     -webkit-text-fill-color: transparent;
     padding: 10px;
 }
+@media only screen and (max-width: 950px) {
+    #projecthead{
+        text-align:center !important;
+    }
+    #projectcard{
+        margin-top: 10px !important;
+    }
+}

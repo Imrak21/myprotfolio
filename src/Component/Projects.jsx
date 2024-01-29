@@ -5,8 +5,8 @@ export default function Projects() {
     <>
       <section id="projectsection">
         <h2 className="text-end text-white" id="projecthead">Projects</h2>
-        <div className="row m-0">
-          <div className="col-4">
+        <div className="d-flex flex-sm-wrap justify-content-between">
+          <div>
             <div id="projectcard">
               <h3>Billing Management System</h3>
               <p>
@@ -18,7 +18,7 @@ export default function Projects() {
               </p>
             </div>
           </div>
-          <div className="col-4">
+          <div >
             <div id="projectcard">
               <h3>College Management System</h3>
               <p>
@@ -30,7 +30,7 @@ export default function Projects() {
               </p>
             </div>
           </div>
-          <div className="col-4">
+          <div >
             <div id="projectcard">
               <h3>Bank Management System</h3>
               <p>

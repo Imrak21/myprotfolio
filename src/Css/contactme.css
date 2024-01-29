@@ -34,3 +34,34 @@
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
 }
+@media only screen and (max-width: 950px) {
+    #form-container{
+        width: 300px;
+        align-items: start !important;
+        margin: 0px 0px !important;
+    }
+}
+@media only screen and (max-width: 630px) {
+    #form-container{
+        width: 250px !important;
+        margin: 0px 0px !important;
+    }
+    #form-input{
+        width: 450px !important;
+    }
+    #form-text-area{
+        width: 450px !important;
+    }
+}
+@media only screen and (max-width:500px) {
+    #form-container{
+        width: 250px !important;
+        margin: 0px 0px !important;
+    }
+    #form-input{
+        width: 300px !important;
+    }
+    #form-text-area{
+        width: 300px !important;
+    }
+}
